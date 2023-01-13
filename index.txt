@@ -1,1 +1,1 @@
-This is a new file. We are working on git
+This is a new file. We are working on git. we just learnt about git commit and git add.
